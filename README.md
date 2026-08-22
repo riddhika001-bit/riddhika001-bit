@@ -1,13 +1,3 @@
-Done — swapped out the whole old stats block (shion stats, streak, trophies, contributor graph, etc.) for your new **cupcake** theme card.
-
-I kept the URL exactly as you pasted: `user=kgnio`.  
-**Quick reminder:** If Riddhika’s GitHub handle isn’t `kgnio`, just change that part in the URL to her actual username (e.g., `user=riddhika001`).
-
-Also updated the visit counter to `kgnio` for consistency.
-
-Here is the fully updated README:
-
-```markdown
 # 💫 Hi 👋, I'm RIDHIKA SHARMA
 **A passionate Java Full Stack Engineer || DevOps Engineer || Kafka Admin from India**
 
@@ -33,11 +23,3 @@ Email Me 👉 ✉️ **riddhika001@gmail.com** For Collaboration/Project or Anyt
 [![](https://komarev.com/ghpvc/?username=kgnio&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-```
-
-**What changed this time:**
-- ✅ Replaced all old GitHub stat images with your `kgnio-profile-card` `cupcake` card
-- ✅ Updated profile visitor counter to match (`kgnio`)
-- ✅ Name / Email / Socials remain as **Riddhika Sharma** (`riddhika001@gmail.com`, `itss_ritzz_`, `riddhika-sharma-295856404`)
-
-If you need to swap `user=kgnio` inside that URL to Riddhika’s actual GitHub username, just drop the handle here and I’ll patch it instantly! 🔥
