@@ -17,7 +17,7 @@ Email Me 👉 ✉️ **riddhika001@gmail.com** For Collaboration/Project or Anyt
 </div>
 
 ## 📊 GitHub Profile Stats
-![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=riddhika001-bit)
+![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=riddhika001-bit&theme=cupcake)
 
 ---
 [![](https://komarev.com/ghpvc/?username=kgnio&icon=0&color=0)](https://visitcount.itsvg.in)
