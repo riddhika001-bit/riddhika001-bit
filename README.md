@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm RIDHIKA SHARMA
-**A passionate Java Full Stack Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate Mern Stack Engineer || DevOps Engineer || Kafka Admin from India**
 
 Email Me 👉 ✉️ **riddhika001@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
